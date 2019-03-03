@@ -1,0 +1,15 @@
+{
+  "name": "tibl2",
+  "version": "0.1.0",
+  "description": "better tibl",
+  "main": "tibl.js",
+  "repository": "https://github.com/tibl/tibl2.git",
+  "author": "uj",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "marked": "^0.6.1",
+    "prismjs": "^1.15.0",
+    "tocbot": "^4.5.0"
+  }
+}
