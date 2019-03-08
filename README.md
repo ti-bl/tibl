@@ -21,9 +21,11 @@ A step by step series of examples that tell you how to get a development env run
 
 Say what the step will be
 
-```
-yarn install
-px tibl.js bundle.js
+```bash
+$ yarn install
+$ px tibl.js bundle.js
+$ # use any server like python3 -m http.server
+$ yarn node js/build.js #to build static source (in dev)
 ```
 
 And repeat
